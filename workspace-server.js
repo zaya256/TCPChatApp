@@ -35,11 +35,11 @@ const chatLogFile = __dirname + '/chatlog.txt';
 
 
         socket.on('data', function(data) {
-            console.log(data);
+            console.log(`got msg: ${data}  -${sockets.length}-`);
 
             for (var i = 0; i < sockets.length; i++) {
                 if (sockets[i] === socket) continue;
-                sockets[i].write(`Client${clientId}: ${data}\n`);
+                sockets[i].write(`Client ${i} says ${data}`);
             }
         });
 
