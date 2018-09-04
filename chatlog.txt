@@ -1,0 +1,65 @@
+Welcome: ::ffff:127.0.0.1::61322
+Welcome: ::ffff:127.0.0.1::63462
+Welcome: ::1::64532
+Welcome: ::1::64533
+Welcome: ::1::64534
+Welcome: ::1::64535
+Welcome: ::ffff:127.0.0.1::64542
+Welcome: ::1::64557
+Welcome: ::1::64558
+Welcome: ::ffff:127.0.0.1::64567
+Welcome: ::ffff:127.0.0.1::64568
+Welcome: ::1::64624
+Welcome: ::ffff:127.0.0.1::64640
+Welcome: ::1::64641
+Welcome: ::ffff:127.0.0.1::64644
+Welcome: ::ffff:127.0.0.1::64646
+Welcome: ::ffff:127.0.0.1::64788
+Welcome: ::ffff:127.0.0.1::64790
+Welcome: ::1::64800
+Welcome: ::ffff:127.0.0.1::64803
+Welcome: ::ffff:127.0.0.1::64804
+Welcome: ::ffff:127.0.0.1::64812
+Welcome: ::ffff:127.0.0.1::64861
+Welcome: ::ffff:127.0.0.1::64864
+Welcome: ::ffff:127.0.0.1::64875
+Welcome: ::ffff:127.0.0.1::64876
+Welcome: ::ffff:127.0.0.1::64880
+Welcome to the chat group: Your ID is: ::ffff:127.0.0.1::64885
+Welcome to the chat group Client1. Your ID is: ::ffff:127.0.0.1::64886
+Welcome to the chat group Client1. Your ID is: ::ffff:127.0.0.1::64888
+Welcome to the chat group Client0. Your ID is: ::ffff:127.0.0.1::64898
+Welcome to the chat group Client0. Your ID is: ::ffff:127.0.0.1::64899
+Welcome to the chat group Client0. Your ID is: ::ffff:127.0.0.1::64913
+Welcome to the chat group Client1. Your ID is: ::ffff:127.0.0.1::64914
+Welcome to the chat group Client1. Your ID is: ::ffff:127.0.0.1::64915
+Welcome to the chat group Client2. Your ID is: ::ffff:127.0.0.1::64916
+Welcome to the chat group Client1. Your ID is: ::ffff:127.0.0.1::64934
+Welcome to the chat group Client2. Your ID is: ::ffff:127.0.0.1::64935
+Welcome to the chat group Client2. Your ID is: Client2::ffff:127.0.0.1::65217
+Welcome to the chat group Client2. Your ID is: Guest2
+Welcome to the chat group 2. Your ID is: Guest2
+Welcome to the chat group 3. Your ID is: Guest3
+Welcome to the chat group 2
+Welcome to the chat group Guest2
+Welcome to the chat group Guest3
+Welcome to the chat group Guest1
+Welcome to the chat group Guest2
+Welcome to the chat group Guest1
+Welcome to the chat group Guest2
+Welcome to the chat group Client1
+Welcome to the chat group Client2
+Welcome to the chat group Client1
+Welcome to the chat group Client2
+Welcome to the chat group Client1
+Welcome to the chat group Client2
+Welcome to the chat group Client1
+Welcome to the chat group Client1
+Welcome to the chat group Client1
+Welcome to the chat group Client2
+Welcome to the chat group Client1
+Welcome to the chat group Client2
+Welcome to the chat group Client1
+Welcome to the chat group Client2
+Welcome to the chat group Client1
+Welcome to the chat group Client1
